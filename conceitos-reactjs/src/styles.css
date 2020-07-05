@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 14px;
+}
+
+div {
+  width: 100%;
+  margin: 20px;
+}
+
+.repo {
+  display: flex;
+  flex-direction: column;
+  margin: 10px 8px;
+  width: 200px;
+  padding: 10px 6px;
+  border: 2px solid blue;
+  border-radius: 6px;
+  background-color: #92ffd5;
+}
+
+.title {
+  font-size:18px;
+  font-weight: bold;
+}
+.btnDiv {
+  display:flex;
+  margin:0;
+  padding: 0;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+
+}
+
+button {
+  background: #7159c1;
+  color: #fff;
+  border: 0;
+  padding: 6px 6px;
+  cursor: pointer;
+  font-size: 10px;
+  width: 60px;
+  border-radius: 4px;
+  align-items: center;
+}
+

@@ -1,0 +1,5 @@
+{
+  "name": "mobile",
+  "displayName": "mobile",
+  "resolutions": { "logkitty": "^0.7.1" }
+}

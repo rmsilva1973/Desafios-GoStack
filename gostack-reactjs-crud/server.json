@@ -1,0 +1,36 @@
+{
+  "foods": [
+    {
+      "name": "Gororoba",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "price": "30,20",
+      "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas.",
+      "available": true,
+      "id": 1
+    },
+    {
+      "name": "Veggie",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "price": "21.90",
+      "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
+      "available": true,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "A la Camarón",
+      "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
+      "price": "25.90",
+      "available": true,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "name": "Xpto",
+      "price": "90",
+      "description": "Xpto com queijo e arroz",
+      "available": true,
+      "id": 4
+    }
+  ]
+}
